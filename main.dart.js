@@ -78804,7 +78804,7 @@ return A.JY(A.pk(A.a([A.cf(p,A.ce(B.dt,p),p,new A.a1N("Service Anfrage","Hallo B
 A.a1N.prototype={
 $0(){var s=0,r=A.U(t.H),q=this,p
 var $async$$0=A.V(function(a,b){if(a===1)return A.R(b,r)
-while(true)switch(s){case 0:p=A.kR(null,"coderabbit9@gmail.com",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
+while(true)switch(s){case 0:p=A.kR(null,"hanfclub@outlook.de",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
 s=5
 return A.O(A.is(p),$async$$0)
 case 5:s=b?2:4
@@ -78865,7 +78865,7 @@ return A.JY(A.pk(A.a([A.cf(p,A.ce(B.dt,p),p,new A.a2H("Anfrage zum Social Club",
 A.a2H.prototype={
 $0(){var s=0,r=A.U(t.H),q=this,p
 var $async$$0=A.V(function(a,b){if(a===1)return A.R(b,r)
-while(true)switch(s){case 0:p=A.kR(null,"coderabbit9@gmail.com",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
+while(true)switch(s){case 0:p=A.kR(null,"hanfclub@outlook.de",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
 s=5
 return A.O(A.is(p),$async$$0)
 case 5:s=b?2:4
@@ -78931,7 +78931,7 @@ return A.JY(A.pk(A.a([A.cf(p,A.ce(B.dt,p),p,new A.a2R("Anfrage zum Social Club",
 A.a2R.prototype={
 $0(){var s=0,r=A.U(t.H),q=this,p
 var $async$$0=A.V(function(a,b){if(a===1)return A.R(b,r)
-while(true)switch(s){case 0:p=A.kR(null,"coderabbit9@gmail.com",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
+while(true)switch(s){case 0:p=A.kR(null,"hanfclub@outlook.de",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
 s=5
 return A.O(A.is(p),$async$$0)
 case 5:s=b?2:4
@@ -79007,7 +79007,7 @@ return A.JY(A.pk(A.a([A.cf(p,A.ce(B.dt,p),p,new A.aaX("Anfrage zum Social Club",
 A.aaX.prototype={
 $0(){var s=0,r=A.U(t.H),q=this,p
 var $async$$0=A.V(function(a,b){if(a===1)return A.R(b,r)
-while(true)switch(s){case 0:p=A.kR(null,"coderabbit9@gmail.com",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
+while(true)switch(s){case 0:p=A.kR(null,"hanfclub@outlook.de",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
 s=5
 return A.O(A.is(p),$async$$0)
 case 5:s=b?2:4
@@ -79149,7 +79149,7 @@ return A.JY(A.pk(A.a([A.cf(p,A.ce(B.dt,p),p,new A.a0Y("Anfrage zum Social Club",
 A.a0Y.prototype={
 $0(){var s=0,r=A.U(t.H),q=this,p
 var $async$$0=A.V(function(a,b){if(a===1)return A.R(b,r)
-while(true)switch(s){case 0:p=A.kR(null,"coderabbit9@gmail.com",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
+while(true)switch(s){case 0:p=A.kR(null,"hanfclub@outlook.de",A.at(["subject",q.a,"body",q.b],t.N,t.z),"mailto").giQ()
 s=5
 return A.O(A.is(p),$async$$0)
 case 5:s=b?2:4
